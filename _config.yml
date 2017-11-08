@@ -17,7 +17,7 @@ title: TWDEM 2009~
 email: yourfriend@twdem.org
 description: >- # this means to ignore newlines until "baseurl:"
   整修中的民主平台網站備份　proudly made by Jekyll
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/twdem" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  twdem
